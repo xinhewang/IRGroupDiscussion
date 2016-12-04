@@ -19,6 +19,7 @@ titles. They also scale poorly for customers with
 numerous purchases and ratings.
 
 #### For Users
+1. Target users: 
 2.Key Goals: 
   buy products that they really want
 3. How can I help them accomplish their goals?
